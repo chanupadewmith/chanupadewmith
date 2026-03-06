@@ -1,14 +1,72 @@
-# Profile
+<div align="center">
 
-**Name:** Chanupa Dewmith  
-**Age:** 21  
-**Major:** UI/UX Engineer  
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 
-## About Me
-I am a UI/UX engineering student interested in designing user-friendly and visually appealing digital experiences. I enjoy learning about interface design, user research, and modern design tools.
+# 👋 Hello, I'm Chanupa Dewmith
 
-## Skills
-- UI Design
-- UX Research
-- Wireframing
-- Prototyping
+### 🎨 UI/UX Engineer | Creative Designer
+
+<p>
+Passionate about designing user-friendly, modern, and visually engaging digital experiences.
+</p>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+- 👤 **Name:** Chanupa Dewmith  
+- 🎂 **Age:** 21  
+- 💼 **Major:** UI/UX Engineer  
+- 🎯 **Focus:** User Interface Design & User Experience Research  
+- 🌍 **Goal:** Create simple and beautiful digital experiences
+
+---
+
+# 🛠 Skills
+
+- 🎨 UI Design  
+- 📱 UX Research  
+- 🧩 Wireframing  
+- 🖌 Prototyping  
+- 💻 Basic Frontend Design  
+
+---
+
+# 🚀 Tools I Use
+
+- Figma  
+- Adobe XD  
+- Photoshop  
+- Illustrator  
+
+---
+
+# 🎬 UI/UX Animation Demo
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+# 📫 Contact Me
+
+- 📧 Email: your@email.com  
+- 🌐 Portfolio: coming soon  
+- 💻 GitHub: https://github.com/YOURUSERNAME  
+
+---
+
+⭐ *Thanks for visiting my profile!*
