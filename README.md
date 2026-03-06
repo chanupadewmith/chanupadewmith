@@ -53,19 +53,13 @@ Passionate about designing user-friendly, modern, and visually engaging digital 
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
----
 
 # 📫 Contact Me
 
-- 📧 Email: your@email.com  
+- 📧 Email:chanupadewmith5678@gmail.com
 - 🌐 Portfolio: coming soon  
-- 💻 GitHub: https://github.com/YOURUSERNAME  
+- 💻 GitHub: https://github.com/chanupadewmith
 
 ---
 
