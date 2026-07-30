@@ -1,8 +1,11 @@
 <div align="center">
 
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
+
 # 👋 Hello, I'm Chanupa Dewmith
 
-### 🎨 UI/UX Engineer | Creative Designer
+### Full stack Engineer | Creative Designer
 
 Passionate about designing user-friendly, modern, and visually engaging digital experiences.
 
