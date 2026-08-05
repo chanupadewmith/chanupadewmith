@@ -83,7 +83,7 @@ A small browser game created using HTML, CSS and JavaScript.
 ## 📫 Contact Me
 
 - 📧 **Email:** [chanupadewmith5678@gmail.com](mailto:chanupadewmith5678@gmail.com)
-- 🌐 **Portfolio:** Coming soon
+- 🌐 **Portfolio:** https://chanupadewmith.gamer.gd/
 - 💻 **GitHub:** [github.com/chanupadewmith](https://github.com/chanupadewmith)
 
 ---
